@@ -1,3 +1,3 @@
 import utils
-
-utils.greeting("wei xiong")
+utils.greeting("<wx")
+utils.goodbye()
